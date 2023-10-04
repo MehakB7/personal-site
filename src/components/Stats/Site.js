@@ -15,7 +15,6 @@ const Stats = () => {
     setResponseData(
       initialData.map((field) => ({
         ...field,
-        // update value if value was returned by call to github
         value: Object.keys(resData).includes(field.key)
           ? resData[field.key]
           : field.value,
