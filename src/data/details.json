@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Mehak",
+    "lastName": ".",
+    "email": "mehakbisht5@gmail.com"
+  },
+  "education": {
+    "university": "UIET, Panjab university",
+    "link": "https://uiet.puchd.ac.in/"
+  },
+  "jobs": [
+    {
+      "position": "Software Enginner",
+      "company": "Winux software solutions private limited",
+      "link": "https://www.winuxsoftwaresolutions.com/"
+    },
+    {
+      "position": "Associate Software Enginner",
+      "company": "chicmic",
+      "link": "https://www.chicmic.in"
+    }
+  ]
+}
